@@ -15,6 +15,10 @@ nav ul {
 display: flex;
 justify-content: center
 }
+nav a {
+color: #FFFFFF;
+font-weight: bold;
+}
 h1{
 font-size: 24px;
 }
@@ -33,5 +37,6 @@ display:grid;
 background-color: #305252;
 
 }
+
 
 
