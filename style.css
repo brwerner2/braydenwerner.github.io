@@ -14,7 +14,7 @@ border-radius: 8px
 nav ul {
 display: flex;
 justify-content: center;
-gap: 50px
+gap: 100px
 }
 nav a {
 color: #FFFFFF;
@@ -38,6 +38,7 @@ display:grid;
 background-color: #305252;
 
 }
+
 
 
 
