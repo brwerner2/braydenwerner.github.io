@@ -8,6 +8,7 @@ nav {
 background-color: #305252;
 margin: 20px;
 padding: 20px;
+border-radius: 8px
 }
 h1{
 
@@ -17,11 +18,13 @@ h2{
 }
 img{
 border-radius: 8px;
-border-
+border-width: 20px
 height:auto;
 width:auto;
 
 }
 .graphs-layout {
 display:grid;
+background-color: #305252;
+
 }
