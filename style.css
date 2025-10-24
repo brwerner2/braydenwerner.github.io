@@ -5,7 +5,7 @@ margin: 20px;
 padding: 20px;
 }
 nav {
-font-color: #305252;
+font-color: #FFFFFF;
 background-color: #305252;
 margin: 20px;
 padding: 20px;
@@ -14,7 +14,7 @@ border-radius: 8px
 nav ul {
 display: flex;
 justify-content: center;
-gap: 200px
+gap: 75px
 }
 nav a {
 color: #FFFFFF;
@@ -38,6 +38,7 @@ display:grid;
 background-color: #305252;
 
 }
+
 
 
 
