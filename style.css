@@ -1,5 +1,5 @@
 body {
-font: "monaco";
+font-family: "Monaco", monospace;
 background-color: #C4A484;
 margin: 20px;
 padding: 20px;
@@ -40,6 +40,7 @@ display:grid;
 background-color: #305252;
 
 }
+
 
 
 
