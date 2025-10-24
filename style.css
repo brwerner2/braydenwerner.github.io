@@ -1,0 +1,27 @@
+body {
+font-family: "tahoma",serif;
+background-color: #C4A484;
+margin: 20px;
+padding: 20px;
+}
+nav {
+background-color: #305252;
+margin: 20px;
+padding: 20px;
+}
+h1{
+
+}
+h2{
+
+}
+img{
+border-radius: 8px;
+border-
+height:auto;
+width:auto;
+
+}
+.graphs-layout {
+display:grid;
+}
